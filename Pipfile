@@ -7,6 +7,10 @@ name = "pypi"
 openai = "*"
 tqdm = "*"
 numpy = "*"
+jupyter = "*"
+lab = "*"
+nbextension = "*"
+enable = "*"
 
 [dev-packages]
 ipykernel = "*"
